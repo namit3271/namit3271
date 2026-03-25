@@ -33,9 +33,9 @@ I focus on building real projects to strengthen practical development skills.
 
 ## 📌 Projects
 
-- Portfolio Website – (Coming soon)
-- React Application – (Coming soon)
-- JavaScript Projects – (Coming soon)
+- Portfolio Website – (In progress)
+- React Application – (In progress)
+- JavaScript Projects – (In progress)
 
 ---
 
