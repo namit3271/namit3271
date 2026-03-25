@@ -6,8 +6,6 @@ Frontend Developer building real-world web applications using React and JavaScri
 
 ## 👨‍💻 About Me
 
-Frontend Developer building real-world web applications using React and JavaScript.
-
 Focused on API integration, responsive UI, and reusable component-based architecture.
 
 Currently following a structured roadmap toward full-stack development, with an emphasis on writing clean, scalable, and maintainable code.
@@ -27,20 +25,17 @@ I believe in learning by building and shipping projects, not just consuming cont
 
 ## 🚀 What I'm Doing
 
-- Building real-world frontend projects
+- Building frontend projects with API integration
 - Practicing component-based architecture in React
 - Improving UI/UX for better usability
-- Strengthening JavaScript fundamentals
 
 ---
 
 ## 📌 Projects
 
-- Portfolio Website – (Add link)
-- React Application – (Add link)
-- JavaScript Projects – (Add link)
-
-> More projects coming soon...
+- Portfolio Website – (Coming soon)
+- React Application – (Coming soon)
+- JavaScript Projects – (Coming soon)
 
 ---
 
