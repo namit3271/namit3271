@@ -10,7 +10,7 @@ Focused on API integration, responsive UI, and reusable component-based architec
 
 Currently following a structured roadmap toward full-stack development, with an emphasis on writing clean, scalable, and maintainable code.
 
-I believe in learning by building and shipping projects, not just consuming content.
+I focus on building real projects to strengthen practical development skills.
 
 ---
 
