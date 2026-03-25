@@ -1,47 +1,49 @@
-# 👋 Hi there!
+# Namit Verma
 
-I'm **Namit**, a frontend-focused developer building strong fundamentals in modern web development and creating practical, real-world projects.
-
-I focus on writing clean, maintainable code and continuously improving my problem-solving skills through hands-on development.
+Frontend Developer building real-world web applications using React and JavaScript.
 
 ---
 
-## 🚀 What I'm currently working on
+## 👨‍💻 About Me
 
-- Strengthening **JavaScript (core + advanced concepts)**
-- Building interactive applications using **React.js**
-- Improving **UI/UX design skills** for clean and user-friendly interfaces
-- Practicing **Data Structures & Algorithms (arrays, strings, hashmap)**
-- Developing projects to strengthen real-world development skills
+Frontend Developer building real-world web applications using React and JavaScript.
+
+Focused on API integration, responsive UI, and reusable component-based architecture.
+
+Currently following a structured roadmap toward full-stack development, with an emphasis on writing clean, scalable, and maintainable code.
+
+I believe in learning by building and shipping projects, not just consuming content.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Frontend**
-- HTML, CSS, JavaScript
+- JavaScript (ES6+)
 - React.js
-
-**Tools & Environment**
-- Git, GitHub, VS Code
-
-**Currently Exploring**
-- Backend development (Node.js, APIs)
-- SQL (basics)
+- HTML5 & CSS3
+- Git & GitHub
 
 ---
 
-## 📌 Featured Projects
+## 🚀 What I'm Doing
 
-- 🔹 **Portfolio Website** – *(Add link here)*
-- 🔹 **React Application** – *(Add link here)*
-- 🔹 **JavaScript Projects** – *(Add link here)*
+- Building real-world frontend projects
+- Practicing component-based architecture in React
+- Improving UI/UX for better usability
+- Strengthening JavaScript fundamentals
+
+---
+
+## 📌 Projects
+
+- Portfolio Website – (Add link)
+- React Application – (Add link)
+- JavaScript Projects – (Add link)
 
 > More projects coming soon...
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://linkedin.com/in/namit-verma-5992903b4
